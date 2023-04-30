@@ -1,7 +1,7 @@
 {
-  "name": "Neumorphism",
+  "name": "Mico Schalin",
   "version": "1.0.0",
-  "description": "",
+  "description": "I am a passionate game developer.",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
